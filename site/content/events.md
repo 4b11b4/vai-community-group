@@ -13,5 +13,5 @@ Fairview, OR 97024
 
 ### Please [click here](https://forms.gle/R9EYRwSC2U8E4kQs7) to register!
 
-Share the registration link below with friends and family!
+Share the registration link below with friends and family!  
 https://forms.gle/R9EYRwSC2U8E4kQs7
