@@ -7,11 +7,13 @@
   Or add your statements here:
  */
 
-header {
+.site-header {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+}
+
+header {
   ul {
     list-style-type: none;
     margin: 0;

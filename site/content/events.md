@@ -2,6 +2,9 @@
 
 ### PI in the Park Community Health Event
 
+November 6th  
+11am - 3pm
+
 Blue Lake Regional Park  
 21224 NE Blue Lake Rd  
 Fairview, OR 97024
