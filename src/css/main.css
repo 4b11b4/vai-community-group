@@ -4,7 +4,6 @@
 @import 'imports/reset.css';
 @import 'imports/header.css';
 
-
 body {
   font-size: calc(10px + 1vmin);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
@@ -17,12 +16,12 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: #282c34;
+  background-color: #dfe4ed;
   color: white;
 }
 
 a {
-  color: pink;
+  color: #1650b5;
   text-decoration: none;
 }
 

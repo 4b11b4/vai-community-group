@@ -1,17 +1,15 @@
-<header class="site-header">
-      <div class="wrapper site-header__wrapper">
-        <a href="{{ "/" | relURL }}" class="brand">Vait Community Group</a>
-        <nav class="nav">
-          <button class="nav__toggle" aria-expanded="false" type="button" aria-label="menu">
-            menu
-          </button>
-          <ul class="nav__wrapper">
-    <li class=nav__item><a href={{ "/" | relURL }}>Home</a></li>
-    <li class=nav__item><a href={{ "/about" | relURL }}>About</a></li>
-    <li class=nav__item nav__item--end><a href={{ "/events" | relURL }}>Events</a></li>
-    <li class=nav__item><a href={{ "/contact" | relURL }}>Contact</a></li>
-    <!--<li><a href=./contact.html>Contact</a></li>-->
-          </ul>
-        </nav>
-      </div>
-    </header>
+<header class="main-header">
+	<div class="container">
+		<h3 class="mh-logo">
+        <li><a href={{ "/" | relURL }}>Vai Community Group</a></li>
+		</h3>
+		<nav class="main-nav">
+			<ul class="main-nav-list">
+        <li><a href={{ "/" | relURL }}>Home</a></li>
+        <li><a href={{ "/about" | relURL }}>About</a></li>
+        <li><a href={{ "/events" | relURL }}>Events</a></li>
+        <li><a href={{ "/contact" | relURL }}>Contact</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
