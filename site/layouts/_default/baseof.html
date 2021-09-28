@@ -13,11 +13,11 @@
   {{ end }}
 </head>
 
-<header>
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
-</header>
 
 <body>
+  <header>
+    {{ block "header" . }}{{ partial "header" . }}{{end}}
+  </header>
 
   {{ block "main" . }}{{end}}
 
