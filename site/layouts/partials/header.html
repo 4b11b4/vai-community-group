@@ -1,6 +1,6 @@
 <header class="site-header">
       <div class="wrapper site-header__wrapper">
-        <a href="#" class="brand">Vait Community Group</a>
+        <a href="{{ "/" | relURL }}" class="brand">Vait Community Group</a>
         <nav class="nav">
           <button class="nav__toggle" aria-expanded="false" type="button" aria-label="menu">
             menu
@@ -8,7 +8,7 @@
           <ul class="nav__wrapper">
     <li class=nav__item><a href={{ "/" | relURL }}>Home</a></li>
     <li class=nav__item><a href={{ "/about" | relURL }}>About</a></li>
-    <li class=nav__item><a href={{ "/events" | relURL }}>Events</a></li>
+    <li class=nav__item nav__item--end><a href={{ "/events" | relURL }}>Events</a></li>
     <li class=nav__item><a href={{ "/contact" | relURL }}>Contact</a></li>
     <!--<li><a href=./contact.html>Contact</a></li>-->
           </ul>
