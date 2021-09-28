@@ -1,11 +1,20 @@
-<ul>
-  <li><a href={{ "/" | relURL }}>Home</a></li>
-  <li><a href={{ "/about" | relURL }}>About</a></li>
-  <li><a href={{ "/events" | relURL }}>Events</a></li>
-  <li><a href={{ "/contact" | relURL }}>Contact</a></li>
+<header class="site-header">
+      <div class="wrapper site-header__wrapper">
+        <a href={{ "/" | relURL }} class="brand">Vai Community Group</a>
+        <nav class="nav">
+          <!--
+          <button class="nav__toggle" aria-expanded="false" type="button">
+            menu
+          </button>
+          -->
 
-  <!--
-  <li><a href=./contact.html>Contact</a></li>
-  -->
-
-</ul>
+          <ul class="nav__wrapper">
+    <li class=nav__item><a href={{ "/" | relURL }}>Home</a></li>
+    <li class=nav__item><a href={{ "/about" | relURL }}>About</a></li>
+    <li class=nav__item><a href={{ "/events" | relURL }}>Events</a></li>
+    <li class=nav__item><a href={{ "/contact" | relURL }}>Contact</a></li>
+    <!--<li><a href=./contact.html>Contact</a></li>-->
+          </ul>
+        </nav>
+      </div>
+    </header>
