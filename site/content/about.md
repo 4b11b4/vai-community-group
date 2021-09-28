@@ -1,6 +1,6 @@
-About Vai CG
+# About Vai CG
 
-“We are not separated by land, but we are connected by water” – anonymous
+### “We are not separated by land, but connected by water” – anonymous
 
 Vai is a word meaning water.  
 Vai/Water unites and connects our Pacific Islander communities together.
