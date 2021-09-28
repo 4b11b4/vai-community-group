@@ -11,5 +11,5 @@ Fairview, OR 97024
 
 [View on Google Maps](https://g.page/blue-lake-regional-park)
 
-### Please register for this event:
+### Please [click here](https://forms.gle/R9EYRwSC2U8E4kQs7) and share the link below to register for this event!
 https://forms.gle/R9EYRwSC2U8E4kQs7
