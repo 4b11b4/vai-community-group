@@ -16,5 +16,7 @@ Fairview, OR 97024
 Share the registration link below with friends and family:  
 https://forms.gle/R9EYRwSC2U8E4kQs7
 
-![Love My Life Tour](/images/love_my_life.jpeg)
 ![PI in the Park](/images/pi_in_the_park.jpeg)
+
+![Love My Life Tour](/images/love_my_life.jpeg)
+
