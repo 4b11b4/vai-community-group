@@ -3,7 +3,7 @@
 ### PI in the Park Community Health Event
 
 November 6th  
-11am - 3pm
+10am - 4pm
 
 Blue Lake Regional Park  
 21224 NE Blue Lake Rd  
